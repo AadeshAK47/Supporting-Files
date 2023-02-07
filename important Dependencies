@@ -23,7 +23,7 @@ https://mvnrepository.com/
     <version>5.6.10.Final</version>
 </dependency>
 
---> for spring framework
+--> for spring core
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
